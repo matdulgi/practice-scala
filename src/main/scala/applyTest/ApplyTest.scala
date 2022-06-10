@@ -1,3 +1,5 @@
+package applyTest
+
 object ApplyTest {
   def main(args: Array[String]): Unit = {
     println(ApplyObject(3, 1))
